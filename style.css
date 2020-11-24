@@ -1,0 +1,81 @@
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.titulo1 {
+  position: absolute;
+  top: 37%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Asap', sans-serif;
+  font-size: 30px;
+}
+
+.titulo2 {
+  position: absolute;
+  top: 44%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Asap', sans-serif;
+  font-size: 20px;
+}
+
+.nombres {
+  position: absolute;
+  top: 52%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Asap', sans-serif;
+  font-size: 15px;
+}
+
+.intro {
+font-weight: bold;
+width: 400px;
+margin: auto;
+color: #191919;
+font-family: 'Asap', sans-serif;
+}
+
+.align-self-center {
+font-weight: bold;
+width: 450px;
+margin: auto;
+color: #191919;
+font-family: 'Asap', sans-serif;
+}
+
+.titulos{
+font-weight: bold;
+font-size: 23px;
+text-align: center; 
+color: #191919;
+font-family: 'Asap', sans-serif;
+}
+
+.subtitulos{
+font-weight: lighter;
+font-size: 17px;
+text-align: center; 
+color: #191919;
+line-height: 0.2;
+font-family: 'Asap', sans-serif;
+}
+
+.notitas{
+font-weight: bold;
+color: #950B00;
+font-style: italic;
+font-size: 17px;
+text-align: center;
+font-family: 'Asap', sans-serif;
+}
+
+p {
+color: #2D2D2D;
+font-size: 15px;
+text-align: left;
+font-family: 'Asap', sans-serif;
+}
